@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/E-comm/static/css/main.9ebbbf02.css",
+    "main.js": "/E-comm/static/js/main.6ce86424.js",
+    "static/media/login.jpg": "/E-comm/static/media/login.eb9a888632419a1d3be5.jpg",
+    "static/media/kakashi-hatake-naruto-uzumaki-sakura-haruno-sasuke-uchiha-uf-1024x768.jpg": "/E-comm/static/media/kakashi-hatake-naruto-uzumaki-sakura-haruno-sasuke-uchiha-uf-1024x768.9386e19ca3cc89c9b8f3.jpg",
+    "static/media/Cool-Anime-Wallpapers.jpg": "/E-comm/static/media/Cool-Anime-Wallpapers.dd0cd9748ed961f2f388.jpg",
+    "static/media/Profile.png": "/E-comm/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/E-comm/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/E-comm/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/E-comm/index.html",
+    "main.9ebbbf02.css.map": "/E-comm/static/css/main.9ebbbf02.css.map",
+    "main.6ce86424.js.map": "/E-comm/static/js/main.6ce86424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ebbbf02.css",
+    "static/js/main.6ce86424.js"
+  ]
+}
